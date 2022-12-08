@@ -7,6 +7,8 @@ public class Chapter3Solution1 {
     Random random = new Random();
     System.out.println(random.nextInt(10));
     System.out.println("AAA");
+    System.out.println("BBB");
+
   }
 }
 
